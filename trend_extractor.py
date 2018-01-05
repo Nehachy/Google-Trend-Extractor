@@ -53,4 +53,4 @@ def convert2Daily(csv_file,outfile):
    except:
       traceback.print_exc()
 
-convert2Daily('/Users/z001jv4/Desktop/Google_Trends.csv','/tmp/Daily_GTrend.csv')
+convert2Daily('/Users/nehachoudhary/Google_Trends.csv','/tmp/Daily_GTrend.csv')
